@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "animatednumber",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/jeffgrann/AnimatedNumber",
+      "state" : {
+        "revision" : "3b4254001cc1b88a34e6f438b1d8eb5b71193e31",
+        "version" : "1.0.7"
+      }
+    },
+    {
+      "identity" : "fscalendar",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/WenchaoD/FSCalendar",
+      "state" : {
+        "revision" : "0fbdec5172fccb90f707472eeaea4ffe095278f6",
+        "version" : "2.8.4"
+      }
+    }
+  ],
+  "version" : 2
+}
